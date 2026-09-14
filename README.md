@@ -1,8 +1,8 @@
-# typescript-masterclass
+# TypeScript MasterClass
 
-This repository contains all the source code for all episodes of the TypeScript Master Class by tapaScript(Tapas Adhikary).
+This repository contains the source code for all episodes of the TypeScript Master Class by tapaScript (Tapas Adhikary).
 
-Don't forget to share this repo with others, and please give it a star ⭐.
+Don't forget to share this repo with others, and please star it ⭐.
 
 Follow this master class on YouTube: [https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
 
