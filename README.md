@@ -1,6 +1,6 @@
-# TypeScript MasterClass
+# TypeScript from Zero to Advanced
 
-This repository contains the source code for all episodes of the TypeScript Master Class by tapaScript (Tapas Adhikary).
+This repository contains the source code for all episodes of the TypeScript from Zero to Advanced Master Class by tapaScript (Tapas Adhikary).
 
 Don't forget to share this repo with others, and please star it ⭐.
 
