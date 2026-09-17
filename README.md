@@ -2,10 +2,30 @@
 
 This repository contains the source code for all episodes of the TypeScript from Zero to Advanced Master Class by tapaScript (Tapas Adhikary).
 
-Don't forget to share this repo with others, and please star it ⭐.
+## 🫶 Support
 
-Follow this master class on YouTube: [https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+Your support means a lot.
 
-## Course Episode Details
+- Please SUBSCRIBE to [tapaScript YouTube Channel](https://youtube.com/tapasadhikary) if not done already. A Big Thank You!
+- Liked my work? It takes months of hard work to create quality content and present it to you. You can show your support for me with a STAR(⭐) to this repository.
 
-- [01 - Setup & Configuration](01-setup)
+    > Many Thanks to all the `Stargazers` who have supported this project with stars(⭐)
+
+### 🤝 Sponsor My Work
+
+I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. **You can support my work by [Sponsoring me on GitHub](https://github.com/sponsors/atapas) or [Buy Me a Cofee](https://buymeacoffee.com/tapasadhikary)**.
+
+### 📊 Star History
+
+You, all my `Stargazers`, are making it work. This is because of you. A BIG THANK YOU to all of you ❤️.
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=tapascript/typescript-masterclass&type=Date)](https://star-history.dera.page/#tapascript/typescript-masterclass&type=Date)
+
+## 🥇 Join the Discord Server
+
+- Join the Discord Server to Collaborate and Learn: [https://discord.gg/ux9BchWEW3](https://discord.gg/ux9BchWEW3)
+
+## 📹 Table of Contents
+
+### Module 1 - Foundations
+- **`Day 01: Introduction to TypeScript and Setup`** - [Watch Video](https://youtu.be/uuEOz4NWTsY) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/01-setup/README.md)
