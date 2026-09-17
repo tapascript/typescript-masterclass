@@ -19,7 +19,7 @@ I am an independent educator and open-source enthusiast who creates meaningful p
 
 You, all my `Stargazers`, are making it work. This is because of you. A BIG THANK YOU to all of you ❤️.
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=tapascript/typescript-masterclass&type=Date)](https://star-history.dera.page/#tapascript/typescript-masterclass&type=Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=tapascript/typescript-masterclass&type=date&legend=top-left)](https://www.star-history.com/?repos=tapascript%2Ftypescript-masterclass&type=date&legend=top-left)
 
 ## 🥇 Join the Discord Server
 
