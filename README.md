@@ -28,4 +28,7 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 ## 📹 Table of Contents
 
 ### Module 1 - Foundations
+
 - **`Day 01: Introduction to TypeScript and Setup`** - [Watch Video](https://youtu.be/uuEOz4NWTsY) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/01-setup/README.md)
+
+- **`Day 02: Type Annotations & Type Inference`** - [Watch Video](https://youtu.be/Iyfvii1qQ0o) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/02-type-annotations-inference/README.md)
