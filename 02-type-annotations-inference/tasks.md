@@ -1,76 +1,53 @@
-# Episode 01 - Assignment / Task
+# Episode 02 - Assignment / Task
 
-Now build the project yourself instead of just watching me do it.
-
-## Task 1 — Create the Project
-
-```shell
-mkdir typescript-learning
-cd typescript-learning
-npm init -y
-npm install --save-dev typescript
-```
-
-Confirm the installed compiler version with:
-
-```shell
-npx tsc --version
-```
-
-## Task 2 — Create Your First Program
-
-Create src/index.ts with:
+## Task 1 — Identify the Inferred Types
 
 ```ts
-const userName: string = "Your Name";
-const age: number = 25;
-console.log(`Hello ${userName}, you are ${age} years old.`);
+const name = "John";
+const age = 30;
+const isAdmin = false;
+const scores = [10, 20, 30];
+const user = {
+    name: "John",
+    age: 30,
+    isAdmin: false
+};
 ```
 
-Compile it and run the generated JavaScript.
+Before checking your editor, predict the type of every variable. Then hover over each one and compare your answer.
 
-## Task 3 — Create tsconfig.json
+## Task 2 — Add Annotations
 
-Initialize the project configuration:
+Rewrite the variables with explicit annotations. Then compare both versions and decide which annotations add useful information and which are redundant.
 
-```shell
-npx tsc --init
-```
-
-Then configure it so your source is under src and your generated JavaScript goes under dist.
-
-## Task 4 — Break the Type System
-
-Change:
+## Task 3 — Function Parameters
 
 ```ts
-const age: number = 25;
+function calculateTotal(price, quantity) {
+    return price * quantity;
+}
 ```
 
-to:
+Make this function type-safe by adding the appropriate parameter annotations. Let TypeScript infer the return type.
+
+## Task 4 — Contextual Typing
 
 ```ts
-const age: number = "twenty-five";
+const names = ["John", "Jane", "Alex"];
+names.forEach(name => {
+    console.log(name.toUpperCase());
+});
 ```
 
-Run the compiler and read the error carefully. Do not fix it immediately. First explain in your own words what TypeScript is protecting you from.
+Hover over name. Explain how TypeScript knows its type without an explicit annotation.
 
-## Task 5 — Watch Mode
+## Task 5 — Find the Balance
 
-Add a development script:
-
-```shell
-"dev": "tsc --watch"
-```
-
-Run it, modify src/index.ts, and observe the generated output update.
+Take a small piece of existing JavaScript code and convert it to TypeScript. Do not annotate everything.
+Annotate only where the type is not obvious or where the annotation communicates an important contract. Then list which types were inferred and which you chose to annotate.
 
 ## Bonus Challenge
 
-Write down the answers to these five questions without looking back at the video:
+When should a TypeScript developer prefer inference, and when should they explicitly annotate a type?
 
-- What is the difference between TypeScript and the JavaScript runtime?
-- What does tsc do?
-- Why do we keep TypeScript as a dev dependency?
-- What problem does tsconfig.json solve?
-- Why is a project-local TypeScript version useful?
+Answer in your own words, without simply repeating the definitions from this video.
