@@ -34,8 +34,7 @@ Make the function safely print the value only when it is a string. Then add a se
 
 ## Task 4 — never Challenge
 
-Create a function called throwError that accepts a string message and always throws an Error. Give it
-the correct return type.
+Create a function called throwError that accepts a string message and always throws an Error. Give it the correct return type.
 
 ## Task 5 — Spot the Problems
 
@@ -49,8 +48,7 @@ data: any
 }
 ```
 
-Identify at least three problems with this code. Rewrite it using better TypeScript types. If the structure of
-data is genuinely unknown, explain why unknown may be preferable to any.
+Identify at least three problems with this code. Rewrite it using better TypeScript types. If the structure of data is genuinely unknown, explain why unknown may be preferable to any.
 
 ## Bonus Challenge — Runtime + Type System
 

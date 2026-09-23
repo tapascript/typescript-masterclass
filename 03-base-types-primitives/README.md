@@ -4,22 +4,18 @@ In this episode, we will learn about the base types in TypeScript.
 
 ## Lessons Covered
 
-- Introduction: TypeScript Masterclass (Episode 02)
-- Course Resources, GitHub Repo & Discord Community
-- Type Annotations vs. Type Inference Explained
-- How to Write Type Annotations for Variables & Functions
-- Return Type Annotations & Array Types
-- Compile-time Type Checking (Real-World Analogy)
-- How TypeScript Type Inference Works Under the Hood
-- Intuitive Real-Life Analogy for Type Inference
-- Uninitialized Variables: `let` vs. `const`
-- Why Function Parameters Don't Infer (Implicit `any` Danger)
-- When to Use Explicit Return Types (API Contracts & Guards)
-- Flow Inference & Object Type Inference
-- What is Contextual Typing in TypeScript?
-- Contextual Typing with DOM Events & Arrays
-- Best Practices: When to Annotate vs. When to Infer
-- What’s Coming Next in the Masterclass!
+- Introduction & Why Base Types Matter
+- Core Primitives: string, number, and boolean
+- Primitive Types vs Wrapper Objects (string vs String)
+- null vs undefined & strictNullChecks
+- Handling Nullable Types, Optional Chaining & Guards
+- bigint and symbol
+- The any Type: Pitfalls and Use Cases
+- The unknown Type: Safe Alternatives to any
+- The void Return Type
+- The never Type & Exhaustive Type Checks
+- Hands-on Coding Tasks & Challenges
+- Summary & Next Steps
 
 ## Quick Decision Guide
 
