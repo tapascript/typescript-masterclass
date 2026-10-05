@@ -1,10 +1,33 @@
 # Episode 04 - Arrays, Tuples & Object Types
 
-In this episode, we will learn about the Arrays, Tuples & Object Types.
+In this episode, we will learn about arrays, Tuples & Object Types.
 
 ## Lessons Covered
 
-TBA
+- Introduction & Prerequisites
+- Understanding Arrays in TypeScript
+- Type Inference vs. Explicit Types for Arrays
+- Array Methods & Immutability
+- Alternative Syntax: Generics
+- Defining Empty Arrays
+- Readonly Arrays
+- Union Types in Arrays (Mixed Arrays)
+- Introduction to Object Types
+- Custom Types using `type` Keyword
+- Optional Properties in Objects (`?`)
+- Readonly Object Properties
+- Nested Object Types
+- Combining Arrays and Objects
+- Excess Property Checks
+- Structural Typing Explained
+- What are Tuples? (Tuples vs Arrays)
+- Optional Elements in Tuples
+- Rest Elements in Tuples
+- Readonly Tuples
+- Real-World Use Case: React Custom Hooks & Tuples
+- Real-World Use Case: API Responses
+- Tuples vs Objects in Custom Hooks
+- Tasks, Assignments & Wrap-Up
 
 ## Tuple VS. Array VS. Object Type
 
