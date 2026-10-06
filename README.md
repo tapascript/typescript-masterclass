@@ -36,3 +36,5 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 - **`Day 03: The TypeScript Types Most Developers Get Wrong`** - [Watch Video](https://youtu.be/iCBq40GlA40) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/03-base-types-primitives/README.md)
 
 - **`Day 04: Why You Need to Know TypeScript Reference Types?`** - [Watch Video](https://youtu.be/tWxUHgB3Wi8) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/04-arrays-tuples-objects/README.md)
+
+- **`Day 05: Advanced TypeScript Patterns You Need to Know`** - [Watch Video](https://youtu.be/FKGC0WDcLUY) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/05-type-aliases/README.md)
