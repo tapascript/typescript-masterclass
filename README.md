@@ -38,3 +38,9 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 - **`Day 04: Why You Need to Know TypeScript Reference Types?`** - [Watch Video](https://youtu.be/tWxUHgB3Wi8) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/04-arrays-tuples-objects/README.md)
 
 - **`Day 05: Advanced TypeScript Patterns You Need to Know`** - [Watch Video](https://youtu.be/FKGC0WDcLUY) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/05-type-aliases/README.md)
+
+- **`Day 06: TypeScript Types: Interfaces vs Aliases Comparison`** - [Watch Video](https://www.youtube.com/watch?v=r0rWCrBWO2A) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/06-interfaces/README.md)
+
+### Module 2 - Advanced TypeScript
+
+COMING NEXT...
