@@ -1,4 +1,4 @@
-# Episode 05 - Interfaces
+# Episode 06 - Interfaces
 
 In this episode, we will learn about the Interfaces.
 
