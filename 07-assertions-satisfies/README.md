@@ -1,10 +1,20 @@
 # Episode 07 - Assertions vs Satisfies
 
-In this episode, we will learn about the Assertions vs Satisfies.
+In this episode, we will learn about assertions vs. satisfies.
 
 ## Lessons Covered
 
-TBA
+- Introduction & Advanced TypeScript Overview
+- What is Type Assertion? (Compile vs Runtime)
+- Syntax: The as Keyword vs Angle Brackets
+- Practical Example: Typing DOM Elements Safely
+- API Data Fetching: Typing Unknown JSON Payloads
+- Impossible Assertions & Double Assertion (as unknown as T)
+- Const Assertions: Deep Readonly & Literal Types with as const
+- Practice Tasks & GitHub Repo
+- What is the satisfies Operator? (Preserving Exact Types)
+- Real-World Example: App Configuration & Union Types
+- Summary & What’s Coming Next
 
 ## Type Assertions Vs. Satisfies
 
