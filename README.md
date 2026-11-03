@@ -44,3 +44,4 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 ### Module 2 - Advanced TypeScript
 
 - **`Day 07: Type Assertions Vs. Satisfies Operator`** - [Watch Video](https://youtu.be/FXvM8uDd0iM) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/07-assertions-satisfies/README.md)
+- **`Day 08: Generics in TypeScript: Why Should We Know Them?`** - [Watch Video](https://youtu.be/tRVsayFnwiM) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/08-generics-intro-and-patterns/README.md)
