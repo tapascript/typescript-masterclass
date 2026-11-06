@@ -1,4 +1,4 @@
-# 🪜 TypeScript from Zero to Advanced
+# TypeScript from Zero to Advanced
 
 This repository contains the source code for all episodes of the TypeScript from Zero to Advanced Master Class by tapaScript (Tapas Adhikary).
 
@@ -15,7 +15,7 @@ Your support means a lot.
 
 I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. **You can support my work by [Sponsoring me on GitHub](https://github.com/sponsors/atapas) or [Buy Me a Cofee](https://buymeacoffee.com/tapasadhikary)**.
 
-## TypeScript: Zero to Advanced - Progress Tracker
+## 🪜 Progress Tracker
 
 This tracker is designed to help you follow your complete TypeScript learning journey, from the fundamentals to advanced type-level programming and building production-ready applications.
 
