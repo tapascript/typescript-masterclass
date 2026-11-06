@@ -1,4 +1,4 @@
-# TypeScript from Zero to Advanced
+# 🪜 TypeScript from Zero to Advanced
 
 This repository contains the source code for all episodes of the TypeScript from Zero to Advanced Master Class by tapaScript (Tapas Adhikary).
 
@@ -15,7 +15,13 @@ Your support means a lot.
 
 I am an independent educator and open-source enthusiast who creates meaningful projects to teach programming on my YouTube Channel. **You can support my work by [Sponsoring me on GitHub](https://github.com/sponsors/atapas) or [Buy Me a Cofee](https://buymeacoffee.com/tapasadhikary)**.
 
-### 📊 Star History
+## TypeScript: Zero to Advanced - Progress Tracker
+
+This tracker is designed to help you follow your complete TypeScript learning journey, from the fundamentals to advanced type-level programming and building production-ready applications.
+
+Get the tracker from here: [https://topmate.io/tapasadhikary/2301605](https://topmate.io/tapasadhikary/2301605)
+
+## 📊 Star History
 
 You, all my `Stargazers`, are making it work. This is because of you. A BIG THANK YOU to all of you ❤️.
 
@@ -40,3 +46,4 @@ You, all my `Stargazers`, are making it work. This is because of you. A BIG THAN
 
 - **`Day 07: Type Assertions Vs. Satisfies Operator`** - [Watch Video](https://youtu.be/FXvM8uDd0iM) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/07-assertions-satisfies/README.md)
 - **`Day 08: Generics in TypeScript: Why Should We Know Them?`** - [Watch Video](https://youtu.be/tRVsayFnwiM) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/08-generics-intro-and-patterns/README.md)
+- **`Day 08: STOP Duplicating Code: Senior Level TypeScript Generics Patterns`** - [Watch Video](https://youtu.be/qGcWmNtmC_k) || [Source Code](https://github.com/tapascript/typescript-masterclass/blob/main/09-generics-mini-projects/README.md)
